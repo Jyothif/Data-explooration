@@ -8,10 +8,15 @@
 
 * Dataset link: https://www.kaggle.com/claudiodavi/superhero-set
 
-* Data Cleaning:
+# Data Cleaning:
+
 ![](https://github.com/Jyothif/Superhero_Data_Exploration/blob/master/images%20folder/SPDinfo.PNG)
 
-* EDA:
+# EDA:
+
+**Some of the interesting facts**
+
+![](https://github.com/Jyothif/Superhero_Data_Exploration/blob/master/images%20folder/SuperheroED1.png)![](https://github.com/Jyothif/Superhero_Data_Exploration/blob/master/images%20folder/SuperheroED2.png)![](https://github.com/Jyothif/Superhero_Data_Exploration/blob/master/images%20folder/SuperheroED3.png)
 
 
 
